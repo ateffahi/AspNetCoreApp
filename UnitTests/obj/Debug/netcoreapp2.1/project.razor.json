@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\mohamed.a.teffahi\\OneDrive - Avanade\\Documents\\My Documents\\Training\\Azure\\Azure DevOps\\ASPNETCOREAPP\\UnitTests\\UnitTests.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
